@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hi! my name is changmin.
+
+I will start my project from now on.
+
+See you.
